@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Circle(double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment1.params=
+comment1.target=double\ circumference()
+comment1.text=\r\n\ returns\ the\ circumference\r\n
+comment2.params=
+comment2.target=double\ area()
+comment2.text=\r\n\ returns\ the\ area\r\n
+comment3.params=
+comment3.target=double\ diameter()
+comment3.text=\r\n\ returns\ the\ diameter\r\n
+numComments=4

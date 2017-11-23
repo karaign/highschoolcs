@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ The\ main\ function\r\n
+comment1.params=s
+comment1.target=boolean\ hasBadWords(java.lang.String)
+comment1.text=\r\n\ Checks\ whether\ a\ string\ has\ bad\ words\r\n\r\n\ @param\ \ s\ \ \ the\ string\ to\ check\r\n\ @return\ \ \ \ \ true\ if\ has,\ no\ if\ not\r\n
+numComments=2
