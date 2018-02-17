@@ -13,7 +13,7 @@ public class InputNumData
      */
     public static void main (String[] args) throws IOException
     {
-       Scanner sf = new Scanner(new File("U:\\CS\\NumData.in"));
+       Scanner sf = new Scanner(new File("../data/NumData.in"));
        int maxIndx = -1;
        
        String[] text = new String[1000];

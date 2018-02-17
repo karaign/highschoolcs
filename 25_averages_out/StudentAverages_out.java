@@ -12,7 +12,7 @@ public class StudentAverages_out
     {
         // read and save the input file
         String[] lines = new String[1000];
-        Scanner sc = new Scanner(new File("U:\\CS\\StudentScores.in"));
+        Scanner sc = new Scanner(new File("../data/StudentScores.in"));
         int maxI = -1;
         while (sc.hasNext())
         {
@@ -21,7 +21,7 @@ public class StudentAverages_out
         sc.close();
         
         // open output file
-        FileWriter fw = new FileWriter("U:\\CS\\StudentScores.out");
+        FileWriter fw = new FileWriter("../data/StudentScores.out");
         PrintWriter output = new PrintWriter(fw);
         
         // for each line, parse the string

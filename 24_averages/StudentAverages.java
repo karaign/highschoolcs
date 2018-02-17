@@ -12,7 +12,7 @@ public class StudentAverages
     {
         // read and save the file
         String[] lines = new String[1000];
-        Scanner sc = new Scanner(new File("U:\\CS\\StudentScores.in"));
+        Scanner sc = new Scanner(new File("../data/StudentScores.in"));
         int maxI = -1;
         while (sc.hasNext())
         {

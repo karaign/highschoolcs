@@ -15,7 +15,7 @@ public class Main
     {
         final int SWITCHES_START_AT = 56;
         
-        Scanner sf = new Scanner(new File("U:\\cs\\Switches.in"));
+        Scanner sf = new Scanner(new File("../data/Switches.in"));
         int maxIndx = -1; //-1 so when we increment below, the first index is 0
         String text[] = new String[1000]; //To be safe, declare more than we need
         while (sf.hasNext())

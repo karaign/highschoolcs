@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TesterMerge
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=void\ sort(int[])
+comment3.params=a\ left\ right
+comment3.target=void\ sort(int[],\ int,\ int)
+comment4.params=a\ left\ middle\ right
+comment4.target=void\ merge(int[],\ int,\ int,\ int)
+numComments=5

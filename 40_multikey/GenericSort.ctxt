@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GenericSort
+comment0.text=\r\n\ Contains\ a\ generic\ selection\ sort\ method\ that\ works\ with\ any\ Comparable.\r\n\r\n\ @author\ Vlad\ Ignatenko\r\n\ @version\ 2018-02-17\r\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+numComments=2

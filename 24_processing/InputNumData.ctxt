@@ -1,5 +1,7 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment0.text=\r\n\ The\ main\ function\r\n
-numComments=1
+comment0.target=InputNumData
+comment0.text=\r\n\ The\ main\ class\ \r\n\ \r\n\ @author\ Vlad\ Ignatenko\ \r\n\ @version\ 06/11/2017\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ The\ main\ function\r\n
+numComments=2

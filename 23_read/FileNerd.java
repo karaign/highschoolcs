@@ -10,7 +10,7 @@ public class FileNerd
 {
     public static void main (String[] args) throws IOException 
     {
-        Scanner sc = new Scanner(new File("U:\\CS\\NerdData.txt"));
+        Scanner sc = new Scanner(new File("../data/NerdData.txt"));
         
         while (sc.hasNext()) {
             String next = sc.nextLine();
